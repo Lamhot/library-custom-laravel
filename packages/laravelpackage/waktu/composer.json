@@ -1,0 +1,14 @@
+{
+    "name": "laravelpackage/waktu",
+    "description": "Package ini digunakan untuk menampilkan waktu pada aplikasi laravel",
+    "type": "personal",
+    "license": "IBM",
+    "authors": [
+        {
+            "name": "Lamhot",
+            "email": "lamhotjmsiagian94@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
